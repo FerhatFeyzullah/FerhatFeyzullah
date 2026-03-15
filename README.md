@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ferhat</h1>
 
 - 🔭 I’m currently working on web, mobile apps
-- 📫 How to reach me **ferhat5024@gmail.com**
+- 📫 How to reach me **ffeyzullah54@gmail.com**
 - My LinkedIn Account: https://www.linkedin.com/in/ferhat-feyzullah-6b985b201/
 
 <!---
